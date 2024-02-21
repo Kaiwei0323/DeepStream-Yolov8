@@ -6,7 +6,7 @@
 ## Software Requirements
   * Ubuntu 20.04
   * CUDA 11.4
-  * JetPack: 5.1.2_V05
+  * JetPack: 5.1.2
   * NVIDIA DeepStream SDK 6.2
 
 ## Environment Setup
